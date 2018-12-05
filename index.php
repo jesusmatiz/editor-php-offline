@@ -36,12 +36,12 @@
                 </div>
             <div class="col-md-6">
                 <div class="form-group">
-                    <label>Código</label>
+                    <label>Code</label>
                     <textarea class="codemirror-textarea" id="ed_code"></textarea>
                 </div>
             </div>
             <div class="col-md-6">
-                    <label>Resultado</label>
+                    <label>Result</label>
                 <div class="form-group" style="height: 300px; background-color: #202020; color: #D0966D;">
                     <div id="result"></div>
                 </div>
