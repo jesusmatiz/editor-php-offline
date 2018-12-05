@@ -1,9 +1,18 @@
 # editor-php-offline
-Simple offline PHP editor with bootstrap 3
+Simple offline PHP editor with bootstrap 3, It will facilitate the PHP code test before integrating it with the final project, thus facilitating the development.
 
-PROJECT DATA
+###### **PROJECT DATA**
 
 1. The version of PHP depends on the installed on your operating system.
-2. This project is based on the library <a href="https://codemirror.net/" target="_blank">CodeMirror 5.42.0</a>
+2. This project is based on the library [CodeMirror 5.42.0](ttps://codemirror.net/)
 
-<a href='http://prntscr.com/lr89up' target='_blank'>Preview</a>
+###### Libraries
+- [X] Bootstrap 3
+- [X] jQuery 3.3.1
+- [X] CodeMirror 5.42.0
+
+[Preview](http://prntscr.com/lr89u)
+
+#### Support
+
+> Jesús Matiz
