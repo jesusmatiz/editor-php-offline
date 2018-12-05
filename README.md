@@ -9,6 +9,7 @@ Simple offline PHP editor with bootstrap 3, It will facilitate the PHP code test
 ###### Libraries
 - [X] Bootstrap 3
 - [X] jQuery 3.3.1
+- [X] PHP >= 5.x
 - [X] CodeMirror 5.42.0
 
 [Preview](https://prnt.sc/lr89up)
