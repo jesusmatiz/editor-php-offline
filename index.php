@@ -49,8 +49,8 @@
         </div>
         <div class="row">
             <div class="col-md-12 app-row text-center" style="margin: 3px;">
-                <button class="btn btn-success btn-action" id="run"><i class="glyphicon glyphicon-console"></i> Run</button>
-                <button class="btn btn-danger btn-action" id="refresh"><i class="glyphicon glyphicon-refresh"></i> Clear</button>
+                <button class="btn btn-default btn-action" id="run"><i class="glyphicon glyphicon-console"></i> Run</button>
+                <button class="btn btn-default btn-action" id="refresh"><i class="glyphicon glyphicon-refresh"></i> Clear</button>
             </div>
         </div>
     </div>
