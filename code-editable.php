@@ -1,3 +1,5 @@
 <?php
 
-// Escriba su codigo a continuación:
+// Write your code below:
+
+echo 'Hola Myndo';
