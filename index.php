@@ -25,23 +25,23 @@
     <link rel="stylesheet" href="lib/bootstrap-3.3.7/css/bootstrap.min.css">
 
 </head>
-<body>
+<body style="background-color: #0E1112">
 
     <div class="container" style="margin-bottom: 20px; margin-top: 10px;">
         <div class="row">
-            <div class="alert alert-warning alert-dismissible fade in" role="alert">
+            <div class="alert alert-primary alert-dismissible fade in" style="color: #00c4ff;" role="alert">
                 <strong>Created by</strong> Jesús Matiz.<br/>
                 <i class="glyphicon glyphicon-envelope"></i> <a href="mailto:jesusmatiz35@gmail.com">jesusmatiz35@gmail.com</a> <br/>
                 &copy; Copyright <?= date('Y') ?>
                 </div>
             <div class="col-md-6">
                 <div class="form-group">
-                    <label>Code</label>
+                    <label style="color: #00c4ff;">Code</label>
                     <textarea class="codemirror-textarea" id="ed_code"></textarea>
                 </div>
             </div>
             <div class="col-md-6">
-                    <label>Result</label>
+                    <label style="color: #00c4ff;">Result</label>
                 <div class="form-group" style="height: 300px; background-color: #202020; color: #D0966D;">
                     <div id="result" style="padding: 10px;"></div>
                 </div>
