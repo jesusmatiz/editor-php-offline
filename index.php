@@ -43,7 +43,7 @@
             <div class="col-md-6">
                     <label>Result</label>
                 <div class="form-group" style="height: 300px; background-color: #202020; color: #D0966D;">
-                    <div id="result"></div>
+                    <div id="result" style="padding: 10px;"></div>
                 </div>
             </div>
         </div>
