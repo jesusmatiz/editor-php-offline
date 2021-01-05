@@ -6,23 +6,23 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Editor PHP Offline</title>
-    <link rel="stylesheet" type="text/css" href="codemirror/lib/codemirror.css">
-    <link rel="stylesheet" type="text/css" href="codemirror/theme/ambiance.css">
-    <script src="lib/jQuery/jQuery.js"></script>
-    <script src="codemirror/lib/codemirror.js"></script>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <script src="editor-action.js"></script>
-    <script src="codemirror/mode/htmlmixed/htmlmixed.js"></script>
-    <script src="codemirror/mode/xml/xml.js"></script>
-    <script src="codemirror/mode/javascript/javascript.js"></script>
-    <script src="codemirror/mode/css/css.js"></script>
-    <script src="codemirror/mode/clike/clike.js"></script>
-    <script src='codemirror/mode/php/php.js'></script>
-    <script src='codemirror/addon/selection/active-line.js'></script>
-    <script src='codemirror/addon/edit/matchbrackets.js'></script>
+    <link rel="stylesheet" type="text/css" href="./codemirror/lib/codemirror.css">
+    <link rel="stylesheet" type="text/css" href="./codemirror/theme/ambiance.css">
+    <script src="./lib/jQuery/jQuery.js"></script>
+    <script src="./codemirror/lib/codemirror.js"></script>
+    <link rel="stylesheet" type="text/css" href="./style.css">
+    <script src="./editor-action.js"></script>
+    <script src="./codemirror/mode/htmlmixed/htmlmixed.js"></script>
+    <script src="./codemirror/mode/xml/xml.js"></script>
+    <script src="./codemirror/mode/javascript/javascript.js"></script>
+    <script src="./codemirror/mode/css/css.js"></script>
+    <script src="./codemirror/mode/clike/clike.js"></script>
+    <script src='./codemirror/mode/php/php.js'></script>
+    <script src='./codemirror/addon/selection/active-line.js'></script>
+    <script src='./codemirror/addon/edit/matchbrackets.js'></script>
 
     <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="lib/bootstrap-3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./lib/bootstrap-3.3.7/css/bootstrap.min.css">
 
 </head>
 <body style="background-color: #0E1112">
@@ -56,7 +56,7 @@
     </div>
 
     <!-- JavaScript -->
-    <script src="lib/bootstrap-3.3.7/js/bootstrap.min.js"></script>
-    <script src="lib/js/editor-code.js"></script>
+    <script src="./lib/bootstrap-3.3.7/js/bootstrap.min.js"></script>
+    <script src="./lib/js/editor-code.js"></script>
 </body>
 </html>
