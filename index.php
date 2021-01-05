@@ -35,7 +35,7 @@
           <strong>Powered by</strong> Jesús Matiz.
         </p>
         <p>
-          <i class="glyphicon glyphicon-envelope"></i> <a href="mailto:jesusmatiz35@gmail.com">jesusmatiz35@gmail.com</a>
+          <i class="glyphicon glyphicon-envelope"></i> <a href="mailto:jesus.matiz.prog@gmail.com">jesus.matiz.prog@gmail.com</a>
         </p>
         <p>
           &copy; Copyright <?= date('Y') ?>
@@ -44,7 +44,8 @@
       <div class="col-md-6 content-textarea">
         <div class="form-group">
           <label class="color-text">Code</label>
-          <textarea class="codemirror-textarea code-textarea" id="ed_code"></textarea>
+          <textarea class="codemirror-textarea code-textarea" id="ed_code"></textarea> 
+          <small id="error" style="color: rgba(255,0,0,75%);"></small>         
         </div>
       </div>
       <div class="col-md-6">
